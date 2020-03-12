@@ -1,6 +1,5 @@
 # RainbowColorPicker
 
-[![CI Status](https://img.shields.io/travis/JinfengLy/RainbowColorPicker.svg?style=flat)](https://github.com/JinfengLy/RainbowColorPicker)
 [![Version](https://img.shields.io/cocoapods/v/RainbowColorPicker.svg?style=flat)](https://cocoapods.org/pods/RainbowColorPicker)
 [![License](https://img.shields.io/cocoapods/l/RainbowColorPicker.svg?style=flat)](https://cocoapods.org/pods/RainbowColorPicker)
 [![Platform](https://img.shields.io/cocoapods/p/RainbowColorPicker.svg?style=flat)](https://cocoapods.org/pods/RainbowColorPicker)
