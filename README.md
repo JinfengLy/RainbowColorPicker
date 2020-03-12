@@ -9,7 +9,7 @@
 
 ## Example
 
-![](name-of-giphy.gif)
+![](Rainbow.gif)
 
 ## Requirements
 - iOS 12.x~
