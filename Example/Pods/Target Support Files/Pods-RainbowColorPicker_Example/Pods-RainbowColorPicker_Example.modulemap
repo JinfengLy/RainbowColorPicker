@@ -1,0 +1,6 @@
+framework module Pods_RainbowColorPicker_Example {
+  umbrella header "Pods-RainbowColorPicker_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

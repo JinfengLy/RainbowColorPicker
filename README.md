@@ -22,7 +22,7 @@ pod 'RainbowColorPicker'
 
 ## Author
 
-Jackie Li, jli@cvent.com
+Jinfeng(Jackie) Li, jackielycs@gmail.com
 
 ## License
 

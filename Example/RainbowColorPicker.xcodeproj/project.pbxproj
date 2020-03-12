@@ -40,10 +40,10 @@
 		607FACE51AFB9204008FA782 /* RainbowColorPicker_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RainbowColorPicker_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		6B1460D5EE1F33764062789C /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		7A2B506BAE4405A8AD31C596 /* RainbowColorPicker.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = RainbowColorPicker.podspec; path = ../RainbowColorPicker.podspec; sourceTree = "<group>"; };
+		6B1460D5EE1F33764062789C /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		7A2B506BAE4405A8AD31C596 /* RainbowColorPicker.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = RainbowColorPicker.podspec; path = ../RainbowColorPicker.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		7AC6F6E0CA80692A1518D706 /* Pods_RainbowColorPicker_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RainbowColorPicker_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		ADBDC96560220EDCBE0A89FB /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		ADBDC96560220EDCBE0A89FB /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		D0C8B3A6DEFC15097D90CCAE /* Pods-RainbowColorPicker_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RainbowColorPicker_Example.release.xcconfig"; path = "Target Support Files/Pods-RainbowColorPicker_Example/Pods-RainbowColorPicker_Example.release.xcconfig"; sourceTree = "<group>"; };
 		D195D377CC3DBF88914CE398 /* Pods-RainbowColorPicker_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RainbowColorPicker_Tests.debug.xcconfig"; path = "Target Support Files/Pods-RainbowColorPicker_Tests/Pods-RainbowColorPicker_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		E55DA9F64DF84EFA32732452 /* Pods_RainbowColorPicker_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RainbowColorPicker_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -147,7 +147,6 @@
 				D195D377CC3DBF88914CE398 /* Pods-RainbowColorPicker_Tests.debug.xcconfig */,
 				1477E7F9EAFB9D2BBFA17D82 /* Pods-RainbowColorPicker_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -227,6 +226,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);

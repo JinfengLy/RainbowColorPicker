@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'RainbowColorPicker'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of RainbowColorPicker.'
+  s.summary          = 'A color picker tool that provides a uicolor instance'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -17,18 +17,16 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = <<-DESC
-TODO: Add long description of the pod here.
-                       DESC
+  s.description      = "The pod provides iOS deveoper a great color picker tool."
 
-  s.homepage         = 'https://github.com/Jackie Li/RainbowColorPicker'
+  s.homepage         = 'https://github.com/JinfengLy/RainbowColorPicker'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'Jackie Li' => 'jli@cvent.com' }
-  s.source           = { :git => 'https://github.com/Jackie Li/RainbowColorPicker.git', :tag => s.version.to_s }
+  s.author           = { 'Jinfeng Li' => 'jackielycs@gmail.com' }
+  s.source           = { :git => 'https://github.com/JinfengLy/RainbowColorPicker.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '12.0'
 
   s.source_files = 'RainbowColorPicker/Classes/**/*'
   

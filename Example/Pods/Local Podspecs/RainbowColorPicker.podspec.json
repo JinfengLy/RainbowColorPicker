@@ -1,0 +1,22 @@
+{
+  "name": "RainbowColorPicker",
+  "version": "0.1.0",
+  "summary": "A short description of RainbowColorPicker.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Jackie Li/RainbowColorPicker",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Jackie Li": "jli@cvent.com"
+  },
+  "source": {
+    "git": "https://github.com/Jackie Li/RainbowColorPicker.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "RainbowColorPicker/Classes/**/*"
+}
