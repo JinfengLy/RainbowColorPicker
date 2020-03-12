@@ -24,7 +24,7 @@ public class RainbowColorPickerView: UIView {
     // between 0 and 1
     var sliderValue: CGFloat = 0.5
     
-    weak var delegate: RainbowColorPickerViewProtocol?
+    public weak var delegate: RainbowColorPickerViewProtocol?
     
     override public func draw(_ rect: CGRect) {
         var circlePath = UIBezierPath()
