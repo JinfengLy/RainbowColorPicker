@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'RainbowColorPicker_Example' do
+  pod 'RainbowColorPicker', :path => '../'
+
+  target 'RainbowColorPicker_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
