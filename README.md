@@ -7,7 +7,7 @@
 
 ***RainbowColorPicker*** is a lightweight color picker for iOS developers.  
 
-<p align="center"><img src="https://github.com/JinfengLy/RainbowColorPicker/master/sample.gif"/></p>
+<img src="https://github.com/JinfengLy/RainbowColorPicker/blob/master/sample.gif"/>
 
 ## Requirements
 - iOS 12.x~
