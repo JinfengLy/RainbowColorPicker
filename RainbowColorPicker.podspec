@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'RainbowColorPicker'
-  s.version          = '0.1.1'
+  s.version          = '0.1.2'
   s.summary          = 'A color picker tool that provides a uicolor instance'
 
 # This description is used to generate tags and improve search results.
