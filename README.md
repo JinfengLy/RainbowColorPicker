@@ -17,7 +17,7 @@
 #### Podfile
 
     platform :ios, '12.0'
-    pod "RainbowColorPicker", "~> 0.1.1"
+    pod "RainbowColorPicker", "~> 0.1.2"
 
 #### Install
 
