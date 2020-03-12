@@ -7,12 +7,16 @@
 //
 
 import UIKit
+import RainbowColorPicker
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var colorPickerView: RainbowColorPickerView!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        
     }
 
     override func didReceiveMemoryWarning() {

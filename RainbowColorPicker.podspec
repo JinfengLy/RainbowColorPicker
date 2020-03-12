@@ -29,7 +29,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '12.0'
 
   s.source_files = 'RainbowColorPicker/Classes/**/*'
-  
+  s.swift_version    = '5.0'
   # s.resource_bundles = {
   #   'RainbowColorPicker' => ['RainbowColorPicker/Assets/*.png']
   # }
