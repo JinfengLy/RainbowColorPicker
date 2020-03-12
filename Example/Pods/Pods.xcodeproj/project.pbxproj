@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		30C2F59108929C5D72A1E8BF9D32D1FA /* Pods-RainbowColorPicker_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = D902F1BAA6585F35E0E4BA4D277268D8 /* Pods-RainbowColorPicker_Example-umbrella.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		48F73ECE241AD2F200064382 /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48F73ECD241AD2F200064382 /* ReplaceMe.swift */; };
-		48F73ED0241AD41900064382 /* CursorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48F73ECF241AD41900064382 /* CursorView.swift */; };
+		48F73ED2241AD4B100064382 /* CursorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48F73ED1241AD4B100064382 /* CursorView.swift */; };
 		59703785C538900AC4221A74367DE4D2 /* RainbowColorPickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35220248CDE480017E7D6195F997048F /* RainbowColorPickerView.swift */; };
 		5CC6EE14E4F058803CF5AE10567B4382 /* RainbowColorPicker-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 035E8C51A278CAE98ED44354B229640C /* RainbowColorPicker-umbrella.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		5EC10F1631AD7644CB07BF9075984CA2 /* Pods-RainbowColorPicker_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 851FDED027C15D11EAD06A38B124683D /* Pods-RainbowColorPicker_Example-dummy.m */; };
@@ -42,7 +42,7 @@
 		33BE4AB4A85AFBCF8624848E03FA7C23 /* Pods-RainbowColorPicker_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-RainbowColorPicker_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		35220248CDE480017E7D6195F997048F /* RainbowColorPickerView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RainbowColorPickerView.swift; path = RainbowColorPicker/Classes/RainbowColorPickerView.swift; sourceTree = "<group>"; };
 		48F73ECD241AD2F200064382 /* ReplaceMe.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ReplaceMe.swift; path = RainbowColorPicker/Classes/ReplaceMe.swift; sourceTree = "<group>"; };
-		48F73ECF241AD41900064382 /* CursorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CursorView.swift; sourceTree = "<group>"; };
+		48F73ED1241AD4B100064382 /* CursorView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CursorView.swift; path = RainbowColorPicker/Classes/CursorView.swift; sourceTree = "<group>"; };
 		4F8F8B3CC1C51F99146567D7D650B8B3 /* Pods-RainbowColorPicker_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-RainbowColorPicker_Tests-dummy.m"; sourceTree = "<group>"; };
 		54D8D1D09F30C30ADDFA60E9714370AF /* libPods-RainbowColorPicker_Example.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-RainbowColorPicker_Example.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5515950FB4891D24528E44BF513D4B9C /* Pods-RainbowColorPicker_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-RainbowColorPicker_Example.release.xcconfig"; sourceTree = "<group>"; };
@@ -112,9 +112,9 @@
 				48F73ECD241AD2F200064382 /* ReplaceMe.swift */,
 				35220248CDE480017E7D6195F997048F /* RainbowColorPickerView.swift */,
 				6DCF4DA530E69C192BE6C5C285202EA1 /* SliderView.swift */,
+				48F73ED1241AD4B100064382 /* CursorView.swift */,
 				3EE2B2BA2E1B3CEB8E442A910DA72EBF /* Pod */,
 				298B390CF49FFC07286C84E28C3B9954 /* Support Files */,
-				48F73ECF241AD41900064382 /* CursorView.swift */,
 			);
 			name = RainbowColorPicker;
 			path = ../..;
@@ -356,7 +356,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				63021DF6FB0F24F36E853E15E6F670AC /* RainbowColorPicker-dummy.m in Sources */,
-				48F73ED0241AD41900064382 /* CursorView.swift in Sources */,
+				48F73ED2241AD4B100064382 /* CursorView.swift in Sources */,
 				59703785C538900AC4221A74367DE4D2 /* RainbowColorPickerView.swift in Sources */,
 				EDC7F15F248CA1654775384CCCEAAD89 /* SliderView.swift in Sources */,
 				48F73ECE241AD2F200064382 /* ReplaceMe.swift in Sources */,
